@@ -1,1 +1,18 @@
-{}
+{
+    "mk_ldap": {
+        "projectName": "mk_ldap",
+        "description": "Testing to see what it takes to make this work",
+        "type": "community",
+        "author": "mfulk-mk",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/mfulk-mk/agama_lab",
+        "githubUri": "https://github.com/mfulk-mk/agama_lab",
+        "license": "apache-2.0",
+        "lastUpdated": "1751924048400",
+        "tags": [
+            "jans"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
