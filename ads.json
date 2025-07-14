@@ -30,6 +30,9 @@
             "authentication"
         ],
         "noDirectLaunch": [],
-        "configs": {}
+        "configs": {
+            "io.jans.casa.authn.main": {}
+        },
+        "name": "casa_mk"
     }
 }
